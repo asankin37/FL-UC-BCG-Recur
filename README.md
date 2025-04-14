@@ -1,8 +1,10 @@
 Model Checkpoint
 Find the model checkpoint here https://drive.google.com/drive/folders/17w79RcUSck7sG0C0NvqHaPu2VTi5RwVA?usp=sharing
 
+
 History
 Version 1.0 (2025-04-05) - Original version in research article
+
 
 License
 The MIT License (MIT)
